@@ -84,11 +84,8 @@ Actual Normal   14,160     3  ← Only 3 false alarms!
 ### Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/ishiTech/Credit-Card-Fraud-Detection-SVM.git
-cd Credit-Card-Fraud-Detection-SVM
-
-# Install dependencies
-pip install -r requirements.txt
+git clone https://github.com/ishiTech/Credit_Card_Fraud_Detection_SVM.git
+cd Credit_Card_Fraud_Detection_SVM
 
 # Download dataset from Kaggle and place as 'creditcard.csv'
 # Run the notebook
@@ -163,11 +160,3 @@ This project demonstrates proficiency in:
 MIT License - feel free to fork, modify, and contribute!
 
 ---
-
-<div align="center">
-
-**Built with ❤️ by [Ishit](https://github.com/ishiTech)**
-
-*Showcasing the intersection of machine learning and business value*
-
-</div>
